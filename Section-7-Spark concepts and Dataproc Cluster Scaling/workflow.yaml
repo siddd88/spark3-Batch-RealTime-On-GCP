@@ -1,0 +1,30 @@
+# Dataproc Workflow Template for creating a Dataproc cluster, running a PySpark job, and deleting the cluster
+
+# Define the Dataproc cluster to be created
+jobs:
+- step-id: create-cluster
+  type: dataproc.v1beta2.jobType
+  pysparkJob:
+    mainPythonFileUri: gs://bucket-name/rollingagg-sparksubmit.py
+  # Define the Dataproc cluster configuration
+  placement:
+    clusterName: test-cluster
+    clusterConfig:
+      masterConfig:
+        machineTypeUri: n1-standard-2
+      workerConfig:
+        machineTypeUri: n1-standard-2
+        numInstances: 2
+      softwareConfig:
+        imageVersion: 2.1
+# Define the PySpark job to be executed
+- step-id: run-pyspark-job
+  type: dataproc.v1beta2.jobType
+  pysparkJob:
+    mainPythonFileUri: gs://bucket-name/rollingagg-sparksubmit.py
+# Define the Dataproc cluster deletion
+- step-id: delete-cluster
+  type: dataproc.v1beta2.jobType
+  # Use the Dataproc API to delete the cluster
+  deleteCluster:
+    clusterName: test-cluster

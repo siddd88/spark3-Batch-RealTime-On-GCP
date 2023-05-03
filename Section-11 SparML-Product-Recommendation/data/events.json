@@ -1,0 +1,351 @@
+[{
+  "event_id": "200595",
+  "user_id": "15410",
+  "session_id": "cd86bca7-86c3-4c22-86ff-14879ac7c31d",
+  "browser": "IE",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "433535",
+  "user_id": "33149",
+  "session_id": "21cfb289-9788-4ab1-9457-34bf3af5b620",
+  "browser": "IE",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "141157",
+  "user_id": "10859",
+  "session_id": "ab33db0a-2163-47f7-a7a9-6fe94137a56e",
+  "browser": "IE",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "669888",
+  "user_id": "51222",
+  "session_id": "725001cc-e0b9-498b-a4d2-90c759db0816",
+  "browser": "IE",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "669882",
+  "user_id": "51222",
+  "session_id": "725001cc-e0b9-498b-a4d2-90c759db0816",
+  "browser": "IE",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "542247",
+  "user_id": "41436",
+  "session_id": "f3e0e672-4b07-4651-9025-de902788fdcf",
+  "browser": "IE",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "1022441",
+  "user_id": "78089",
+  "session_id": "54cc1368-8df3-4766-9588-ed71407eefc6",
+  "browser": "IE",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "1021503",
+  "user_id": "78006",
+  "session_id": "6a18aa1e-6799-4ef8-b004-1dad02971f58",
+  "browser": "IE",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "175651",
+  "user_id": "13405",
+  "session_id": "eda8e70d-59d1-4744-9762-2048f1c8bb34",
+  "browser": "IE",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "708265",
+  "user_id": "54133",
+  "session_id": "ee79935f-dab6-4c2c-86bd-3fcd0184a23a",
+  "browser": "Other",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "811922",
+  "user_id": "61932",
+  "session_id": "5f64be4f-1d5a-491b-8428-0b40218e5de5",
+  "browser": "Other",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "152337",
+  "user_id": "11733",
+  "session_id": "5556ee24-6059-4761-8ffe-0d401e77376e",
+  "browser": "Other",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "1254235",
+  "user_id": "95984",
+  "session_id": "2df93ee5-d6a3-4c69-b026-f2c1a5a8c049",
+  "browser": "Other",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "397233",
+  "user_id": "30305",
+  "session_id": "790ee53d-eb77-4af1-9cfc-63a0844e375a",
+  "browser": "Other",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "609388",
+  "user_id": "46559",
+  "session_id": "38ab8952-8f8f-4021-9739-d28517ba79d2",
+  "browser": "Other",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "1063497",
+  "user_id": "81237",
+  "session_id": "4d494d01-e781-43de-94fe-f014df37e67a",
+  "browser": "Other",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "970237",
+  "user_id": "74049",
+  "session_id": "516efdbc-fbdd-4d28-948b-d6a68d65fb6d",
+  "browser": "Chrome",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "1038781",
+  "user_id": "79357",
+  "session_id": "a2e8b520-4aa2-4c35-b412-467151f822ea",
+  "browser": "Chrome",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "970216",
+  "user_id": "74049",
+  "session_id": "e701cd62-182e-40c5-aead-e40e592e2e6e",
+  "browser": "Chrome",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "797572",
+  "user_id": "60805",
+  "session_id": "8f7fd544-ef02-4a18-881b-ac16ca170964",
+  "browser": "Chrome",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "806686",
+  "user_id": "61539",
+  "session_id": "3e90d831-f540-422a-8f54-2cdee52f2a13",
+  "browser": "Chrome",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "1024298",
+  "user_id": "78215",
+  "session_id": "90000c8c-3c3c-41df-9731-7d1aa4430a0d",
+  "browser": "Chrome",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "811932",
+  "user_id": "61932",
+  "session_id": "c94ed826-b086-45de-9ca9-6ff23bb203cb",
+  "browser": "Chrome",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "1173609",
+  "user_id": "89786",
+  "session_id": "896c1ecf-9d78-4577-ac10-f09424f928a8",
+  "browser": "Chrome",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "1294585",
+  "user_id": "99157",
+  "session_id": "6ba53e27-587d-4205-a2dd-aa75c40217d6",
+  "browser": "Chrome",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "220393",
+  "user_id": "16872",
+  "session_id": "e17b98c1-29bf-4bd7-ac98-208180e730e4",
+  "browser": "Chrome",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "220373",
+  "user_id": "16872",
+  "session_id": "6af32c4f-3f9e-4dad-9fa9-9244cf10c02d",
+  "browser": "Chrome",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "220419",
+  "user_id": "16872",
+  "session_id": "dce392b7-c74b-42d5-ba3e-0633c56fa9ac",
+  "browser": "Chrome",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "138077",
+  "user_id": "10656",
+  "session_id": "c87ba155-5fbf-486f-9b54-0d450a712f4f",
+  "browser": "Chrome",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "274342",
+  "user_id": "20964",
+  "session_id": "152a9c96-858c-455a-83f5-d99966b031a9",
+  "browser": "Chrome",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "127535",
+  "user_id": "9851",
+  "session_id": "cac3d951-1e41-4b17-9573-c112b299aa22",
+  "browser": "Chrome",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "556052",
+  "user_id": "42510",
+  "session_id": "09270ddb-c590-4069-8871-41b5158473d1",
+  "browser": "Chrome",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "738612",
+  "user_id": "56343",
+  "session_id": "38b8e8ab-80ca-4a80-a25e-5409b247ae73",
+  "browser": "Chrome",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "738632",
+  "user_id": "56343",
+  "session_id": "66b5f112-22d5-4216-a7bf-3a4a1e445ea8",
+  "browser": "Chrome",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "738636",
+  "user_id": "56343",
+  "session_id": "8a12c662-d481-41c3-a27d-c8ca48c73ad7",
+  "browser": "Chrome",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "738599",
+  "user_id": "56343",
+  "session_id": "779ccde7-55d7-4874-9542-e186b682e05a",
+  "browser": "Chrome",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "738606",
+  "user_id": "56343",
+  "session_id": "38b8e8ab-80ca-4a80-a25e-5409b247ae73",
+  "browser": "Chrome",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "493865",
+  "user_id": "37728",
+  "session_id": "8e08bde0-9bd0-4826-a80d-9431ab5d7fa4",
+  "browser": "Chrome",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "811652",
+  "user_id": "61912",
+  "session_id": "600edd84-e58d-4038-a65a-85fef781b801",
+  "browser": "Chrome",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "811601",
+  "user_id": "61912",
+  "session_id": "4cc02151-ed6a-4724-9132-0eb3162a26da",
+  "browser": "Chrome",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "811648",
+  "user_id": "61912",
+  "session_id": "f94f3aec-98c7-4bb4-810e-55f5123da8bd",
+  "browser": "Chrome",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "485586",
+  "user_id": "37131",
+  "session_id": "c9803747-9951-44f4-af9c-d37e31621881",
+  "browser": "Chrome",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "66126",
+  "user_id": "4956",
+  "session_id": "a65371a3-b602-440c-908f-ad9d1ef01bb1",
+  "browser": "Chrome",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "516439",
+  "user_id": "39454",
+  "session_id": "0fc8600f-68cd-4e62-9347-3be8abda41f6",
+  "browser": "Chrome",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "700896",
+  "user_id": "53550",
+  "session_id": "7373aaed-f200-486e-b5e6-e801393d1f3d",
+  "browser": "Chrome",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "414942",
+  "user_id": "31668",
+  "session_id": "905b3990-df15-4402-b197-c495992667c3",
+  "browser": "Chrome",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "1021867",
+  "user_id": "78039",
+  "session_id": "3f59cdfd-33e6-4ed9-a047-c2ef41779347",
+  "browser": "Chrome",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "1052235",
+  "user_id": "80320",
+  "session_id": "096bd370-cbda-420b-b9c0-6778c00f0b28",
+  "browser": "Chrome",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "1052245",
+  "user_id": "80320",
+  "session_id": "9583ffb9-c20f-45b3-899b-6c141bae9191",
+  "browser": "Chrome",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "event_id": "1052219",
+  "user_id": "80320",
+  "session_id": "fdd7ba27-10cc-49c8-b023-9a4920432e0e",
+  "browser": "Chrome",
+  "uri": "/cart",
+  "event_type": "cart"
+}]

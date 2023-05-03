@@ -1,0 +1,801 @@
+[{
+  "user_id": "54914",
+  "session_id": "9858d657-52f3-477a-9931-d563e112ddcb",
+  "ip_address": "182.250.133.152",
+  "browser": "Firefox",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "56074",
+  "session_id": "e39084b4-74e7-4fb8-b5d0-b8856297f806",
+  "ip_address": "88.204.141.171",
+  "browser": "Chrome",
+  "traffic_source": "YouTube",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": null,
+  "session_id": "07a4a296-4d46-4a2c-a8bb-e39d267d59bd",
+  "ip_address": "114.51.50.151",
+  "browser": "Chrome",
+  "traffic_source": "Facebook",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "6799",
+  "session_id": "2a341dec-5aec-4c4f-a0be-c48f3d4ffd2a",
+  "ip_address": "130.235.44.179",
+  "browser": "Firefox",
+  "traffic_source": "Adwords",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": null,
+  "session_id": "1020de4c-2602-4d35-9443-a24e6f58d91f",
+  "ip_address": "105.251.122.238",
+  "browser": "Chrome",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "24254",
+  "session_id": "1b8fbb27-f5ea-4f69-9168-a0e1ddc1aee9",
+  "ip_address": "93.239.34.222",
+  "browser": "Safari",
+  "traffic_source": "YouTube",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "35969",
+  "session_id": "24eb3796-c6f1-4557-9b24-78bd59daac36",
+  "ip_address": "149.106.97.56",
+  "browser": "Chrome",
+  "traffic_source": "YouTube",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": null,
+  "session_id": "16dfbd0f-839c-4641-9c8b-cb24eaefd316",
+  "ip_address": "177.241.71.94",
+  "browser": "Chrome",
+  "traffic_source": "Adwords",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": null,
+  "session_id": "154d9b70-29ef-4b0b-9fa1-9c824f1a9a26",
+  "ip_address": "3.89.161.125",
+  "browser": "Chrome",
+  "traffic_source": "Adwords",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "77533",
+  "session_id": "8814551c-c9b0-49bf-ad22-ea17270e5ab8",
+  "ip_address": "21.61.177.15",
+  "browser": "Chrome",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "28923",
+  "session_id": "0e45eebd-1968-427e-8905-dcfd0d3cdb4d",
+  "ip_address": "51.118.13.205",
+  "browser": "Chrome",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "9079",
+  "session_id": "3894d150-01e6-42eb-bfa8-eee04a2cee1f",
+  "ip_address": "111.168.84.179",
+  "browser": "Firefox",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "28977",
+  "session_id": "1a52bc95-3323-49c0-85a3-1fc746bdb201",
+  "ip_address": "114.174.58.157",
+  "browser": "Other",
+  "traffic_source": "YouTube",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "49856",
+  "session_id": "81edf6d0-b31b-45ca-95d6-2fa93fc5cf8e",
+  "ip_address": "144.227.249.3",
+  "browser": "Chrome",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": null,
+  "session_id": "0b300c53-f701-4b53-8f8c-1ab69eeda3d1",
+  "ip_address": "7.3.74.15",
+  "browser": "Firefox",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "2194",
+  "session_id": "f6ae2b58-2edf-4453-a938-e6e3b12c0865",
+  "ip_address": "146.117.207.57",
+  "browser": "Chrome",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "9112",
+  "session_id": "a941c046-72ee-496a-876d-3206b35f053d",
+  "ip_address": "172.87.146.142",
+  "browser": "Chrome",
+  "traffic_source": "YouTube",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": null,
+  "session_id": "066228f0-fa91-4823-8ff2-bd4c0414ff63",
+  "ip_address": "122.29.229.246",
+  "browser": "Chrome",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "22177",
+  "session_id": "2989bbd9-cc01-4963-be2b-77b80669f5c0",
+  "ip_address": "70.85.42.145",
+  "browser": "Firefox",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "24254",
+  "session_id": "9a3f5eec-c9b7-422c-85cd-08dfc0a39770",
+  "ip_address": "115.211.103.233",
+  "browser": "Firefox",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "99017",
+  "session_id": "9150da5f-4c9b-45a9-9715-ff7c9548de92",
+  "ip_address": "67.24.151.98",
+  "browser": "Chrome",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": null,
+  "session_id": "5cfec79b-d0c3-407f-bc0c-8f0bbe8fe48e",
+  "ip_address": "7.162.172.222",
+  "browser": "Firefox",
+  "traffic_source": "Adwords",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": null,
+  "session_id": "19c719be-4aa5-4494-8388-12a4d1628f7c",
+  "ip_address": "191.51.118.222",
+  "browser": "Chrome",
+  "traffic_source": "YouTube",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": null,
+  "session_id": "03889454-ca58-44f7-b47c-f1fe81d127c6",
+  "ip_address": "136.46.111.106",
+  "browser": "Safari",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "4708",
+  "session_id": "e34ee106-55fe-47cf-8355-59888f097f9d",
+  "ip_address": "82.215.50.242",
+  "browser": "Chrome",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "36957",
+  "session_id": "186c8881-4951-4e67-829c-ecbbd8702434",
+  "ip_address": "119.244.183.168",
+  "browser": "Safari",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "49856",
+  "session_id": "22313376-4e64-4f3a-9bbe-190bee3c6b88",
+  "ip_address": "8.41.47.41",
+  "browser": "IE",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "6799",
+  "session_id": "2a341dec-5aec-4c4f-a0be-c48f3d4ffd2a",
+  "ip_address": "130.235.44.179",
+  "browser": "Firefox",
+  "traffic_source": "Adwords",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "94252",
+  "session_id": "c1b09778-580e-425f-8045-3678da014cda",
+  "ip_address": "205.97.240.142",
+  "browser": "IE",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "35969",
+  "session_id": "81d5bca1-dcaf-46f7-9362-a4195cff946a",
+  "ip_address": "71.74.95.30",
+  "browser": "Firefox",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": null,
+  "session_id": "17dd2fd7-1600-49b6-b089-c9d12fa9a0c8",
+  "ip_address": "105.98.56.196",
+  "browser": "Chrome",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "24254",
+  "session_id": "876d4a17-a7b5-4c66-98f0-f4b79a21f742",
+  "ip_address": "55.141.184.233",
+  "browser": "Chrome",
+  "traffic_source": "Adwords",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "56074",
+  "session_id": "b132cce8-b336-4dc1-b000-e8ecaaa58b63",
+  "ip_address": "15.113.211.137",
+  "browser": "Firefox",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "28370",
+  "session_id": "38f91d2d-711a-47dd-89bd-a7fa68f1f8b1",
+  "ip_address": "24.207.153.111",
+  "browser": "Chrome",
+  "traffic_source": "Adwords",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "6462",
+  "session_id": "31194c4e-994f-47d8-bc91-82558a547b73",
+  "ip_address": "64.81.37.156",
+  "browser": "Chrome",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "14129",
+  "session_id": "09f6ff7d-4601-457b-99bf-727163a45fc7",
+  "ip_address": "75.161.147.87",
+  "browser": "Chrome",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "28977",
+  "session_id": "e2c0892a-d792-4fa7-8e3d-be508522eb94",
+  "ip_address": "206.209.26.188",
+  "browser": "Chrome",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "35360",
+  "session_id": "392c985e-d1ac-4345-bfbc-21dde28fd075",
+  "ip_address": "94.184.138.247",
+  "browser": "Safari",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "80201",
+  "session_id": "a0edf439-47f0-4a70-84d6-241d187fca79",
+  "ip_address": "215.160.244.194",
+  "browser": "Safari",
+  "traffic_source": "YouTube",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "99185",
+  "session_id": "b76ad085-d3a1-4b85-8960-f0063aecbaf6",
+  "ip_address": "56.141.195.75",
+  "browser": "Other",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": null,
+  "session_id": "e3921678-9c6c-4931-a86f-44b903b6f823",
+  "ip_address": "39.230.25.89",
+  "browser": "Safari",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "10572",
+  "session_id": "67cefce6-d881-4d44-b06f-c499d2c122ae",
+  "ip_address": "219.194.26.226",
+  "browser": "Chrome",
+  "traffic_source": "YouTube",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": null,
+  "session_id": "92ad8e12-490b-4589-8d94-e00f7444bcca",
+  "ip_address": "95.14.157.198",
+  "browser": "Firefox",
+  "traffic_source": "Adwords",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": null,
+  "session_id": "1d05b719-c5f3-4a8c-81c3-257789f95ad5",
+  "ip_address": "75.26.163.74",
+  "browser": "Safari",
+  "traffic_source": "Adwords",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": null,
+  "session_id": "c873f583-1c72-4588-9bac-6ff132b44bbd",
+  "ip_address": "187.48.105.51",
+  "browser": "Chrome",
+  "traffic_source": "Organic",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "79508",
+  "session_id": "59e564c9-3475-47d2-9419-2f5923eb6ad7",
+  "ip_address": "40.104.29.60",
+  "browser": "Chrome",
+  "traffic_source": "Facebook",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "22177",
+  "session_id": "f74cf8a5-717d-4cac-846c-4e49360fb432",
+  "ip_address": "157.0.160.101",
+  "browser": "Firefox",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "22177",
+  "session_id": "24bcb594-5e52-430b-94b6-65d3f2dd2d18",
+  "ip_address": "111.233.22.222",
+  "browser": "Chrome",
+  "traffic_source": "Adwords",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "2194",
+  "session_id": "c1b51200-8c95-42e1-82c7-bcfb8b69fede",
+  "ip_address": "84.73.56.103",
+  "browser": "Chrome",
+  "traffic_source": "Adwords",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "10572",
+  "session_id": "67cefce6-d881-4d44-b06f-c499d2c122ae",
+  "ip_address": "219.194.26.226",
+  "browser": "Chrome",
+  "traffic_source": "YouTube",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "49856",
+  "session_id": "8d4c7c6e-a331-493c-a2d8-dca5f7e98c8e",
+  "ip_address": "173.157.77.250",
+  "browser": "Other",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "10572",
+  "session_id": "1dfbe424-b1bf-4f91-a289-61a8c2e4e36e",
+  "ip_address": "19.68.163.50",
+  "browser": "Chrome",
+  "traffic_source": "Adwords",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "94698",
+  "session_id": "b0a07338-5ba4-421e-b968-96fbd712308f",
+  "ip_address": "139.225.77.21",
+  "browser": "Chrome",
+  "traffic_source": "YouTube",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "35969",
+  "session_id": "4c12e4c8-69df-4e5b-8f51-6b4145c7375d",
+  "ip_address": "120.12.163.172",
+  "browser": "Safari",
+  "traffic_source": "Facebook",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": null,
+  "session_id": "d1e3e0f9-d88e-4ab6-81e7-a75c282f9703",
+  "ip_address": "169.158.153.182",
+  "browser": "IE",
+  "traffic_source": "Adwords",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": null,
+  "session_id": "9ee30204-9e66-4581-abaf-5be2d1719b21",
+  "ip_address": "2.172.110.26",
+  "browser": "Safari",
+  "traffic_source": "Facebook",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "73758",
+  "session_id": "e68efbd8-588f-4451-a49a-e17962131ea6",
+  "ip_address": "220.93.54.109",
+  "browser": "Chrome",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": null,
+  "session_id": "5cc449d1-3a30-4a35-b570-f3ac28cc5da5",
+  "ip_address": "41.228.247.61",
+  "browser": "IE",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "22177",
+  "session_id": "2989bbd9-cc01-4963-be2b-77b80669f5c0",
+  "ip_address": "70.85.42.145",
+  "browser": "Firefox",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": null,
+  "session_id": "689daace-4288-4775-9819-8e6d8af17acf",
+  "ip_address": "131.237.55.53",
+  "browser": "Firefox",
+  "traffic_source": "Adwords",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": null,
+  "session_id": "6fb2bc88-91e9-4c3a-a046-6591a0e3a25c",
+  "ip_address": "157.147.30.14",
+  "browser": "Chrome",
+  "traffic_source": "Adwords",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": null,
+  "session_id": "fdb9dd16-04fc-4ef1-bce5-73cfb3345fe0",
+  "ip_address": "39.48.204.45",
+  "browser": "Chrome",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": null,
+  "session_id": "12029748-2381-4b9e-a608-f750d60f3d28",
+  "ip_address": "131.100.76.178",
+  "browser": "Other",
+  "traffic_source": "Adwords",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "63996",
+  "session_id": "7d9bf3cc-2834-419d-8861-6d3cbf13697c",
+  "ip_address": "179.126.0.47",
+  "browser": "Other",
+  "traffic_source": "YouTube",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "78461",
+  "session_id": "a48d41ee-f260-4b1c-aaf5-456cff3d4a33",
+  "ip_address": "188.155.149.181",
+  "browser": "Safari",
+  "traffic_source": "Adwords",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "15657",
+  "session_id": "61506c30-cc9c-44f9-afde-fbddf074c6dd",
+  "ip_address": "1.65.108.212",
+  "browser": "Chrome",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "30488",
+  "session_id": "84cdb752-5619-42cc-9a69-c481bb5975aa",
+  "ip_address": "118.126.248.107",
+  "browser": "Chrome",
+  "traffic_source": "Adwords",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "2194",
+  "session_id": "53970a0e-6b88-4bb1-bc5d-cc13f5f4cbd7",
+  "ip_address": "217.155.53.119",
+  "browser": "Chrome",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "94698",
+  "session_id": "8e1b0a9c-375b-4a52-9ed1-b8397bdf2dac",
+  "ip_address": "13.79.115.106",
+  "browser": "IE",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "36957",
+  "session_id": "186c8881-4951-4e67-829c-ecbbd8702434",
+  "ip_address": "119.244.183.168",
+  "browser": "Safari",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": null,
+  "session_id": "ee945ee9-169e-4503-9b0e-39a7d343d097",
+  "ip_address": "216.110.78.222",
+  "browser": "Chrome",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": null,
+  "session_id": "556d9384-2d3f-466b-a398-ea4cbd035b40",
+  "ip_address": "203.76.104.143",
+  "browser": "Chrome",
+  "traffic_source": "Facebook",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "36957",
+  "session_id": "10f78199-c8d8-41be-bbe5-ed355ceae056",
+  "ip_address": "63.98.227.69",
+  "browser": "Safari",
+  "traffic_source": "Adwords",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "59698",
+  "session_id": "d6c1221f-6661-487b-938b-4f7b7c065220",
+  "ip_address": "107.161.252.37",
+  "browser": "Firefox",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "2194",
+  "session_id": "f6ae2b58-2edf-4453-a938-e6e3b12c0865",
+  "ip_address": "146.117.207.57",
+  "browser": "Chrome",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": null,
+  "session_id": "4aaf872e-78f0-4ceb-a32c-2a1d86fc80f7",
+  "ip_address": "35.229.5.107",
+  "browser": "Chrome",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "54914",
+  "session_id": "f24e8636-030a-4ff7-9605-fda1a11fb5b4",
+  "ip_address": "188.149.252.60",
+  "browser": "Chrome",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": null,
+  "session_id": "348011ff-a65f-4935-b9a0-879bf3701ed1",
+  "ip_address": "71.21.197.85",
+  "browser": "Firefox",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": null,
+  "session_id": "372907e9-9393-4966-b04b-2bdd0f69eed0",
+  "ip_address": "97.116.196.85",
+  "browser": "Safari",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "57831",
+  "session_id": "1e5eb46d-e11b-443e-b783-e15adcb16990",
+  "ip_address": "76.231.218.99",
+  "browser": "Safari",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": null,
+  "session_id": "303e8bbf-75c2-43d6-8aa0-0b470dc5ae03",
+  "ip_address": "177.115.91.116",
+  "browser": "Chrome",
+  "traffic_source": "Adwords",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "22177",
+  "session_id": "f9462dd4-7942-4edd-9cbd-c8fa2afed144",
+  "ip_address": "110.58.146.185",
+  "browser": "Chrome",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": null,
+  "session_id": "e47ff757-7689-499e-a9b9-11fa017294c1",
+  "ip_address": "180.73.109.54",
+  "browser": "Chrome",
+  "traffic_source": "Adwords",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "57355",
+  "session_id": "d7fd4a04-ac35-4ce2-8e81-48a9ded7ef71",
+  "ip_address": "20.97.72.127",
+  "browser": "Firefox",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": null,
+  "session_id": "949a7c27-acf5-4ccb-9a63-aa32e1d1dd1d",
+  "ip_address": "157.220.90.191",
+  "browser": "Chrome",
+  "traffic_source": "Adwords",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": null,
+  "session_id": "59fc5e4e-a26a-4e15-82b0-78ad412be4b0",
+  "ip_address": "37.24.7.103",
+  "browser": "Chrome",
+  "traffic_source": "Adwords",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "28977",
+  "session_id": "4bb0463a-4db7-4b6b-8749-0ffc82a28fdb",
+  "ip_address": "210.14.51.235",
+  "browser": "Safari",
+  "traffic_source": "Facebook",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": null,
+  "session_id": "c4338e6c-b9a7-4776-90f3-cf269889c743",
+  "ip_address": "219.63.198.44",
+  "browser": "Chrome",
+  "traffic_source": "Adwords",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "85732",
+  "session_id": "60ebdb77-e70c-4596-9d70-eb30db54642d",
+  "ip_address": "131.78.127.78",
+  "browser": "Chrome",
+  "traffic_source": "Facebook",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": null,
+  "session_id": "7fce5111-cbb5-417c-a815-adbf67934736",
+  "ip_address": "45.77.128.8",
+  "browser": "Chrome",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "54914",
+  "session_id": "53c28299-001c-4ffb-9858-5c720be18376",
+  "ip_address": "191.42.176.189",
+  "browser": "Firefox",
+  "traffic_source": "YouTube",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "99017",
+  "session_id": "92a07fde-cc73-4b12-a560-414aa833f991",
+  "ip_address": "6.150.132.191",
+  "browser": "Firefox",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "85732",
+  "session_id": "1545c03d-af1c-48fd-93f9-6044a9a1445d",
+  "ip_address": "5.72.188.208",
+  "browser": "Firefox",
+  "traffic_source": "Organic",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "18049",
+  "session_id": "3bbd63a6-f503-489f-a28c-0514c934af4a",
+  "ip_address": "11.147.208.103",
+  "browser": "Safari",
+  "traffic_source": "Organic",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "19087",
+  "session_id": "ba062675-18cc-4f20-b917-cc30a50e6df1",
+  "ip_address": "95.34.192.108",
+  "browser": "Chrome",
+  "traffic_source": "Adwords",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": null,
+  "session_id": "fd43e670-4dec-42fb-a5e3-a726f67058c5",
+  "ip_address": "145.150.42.20",
+  "browser": "Chrome",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": null,
+  "session_id": "ef26b9c9-1450-4b23-bf0b-31f4de656214",
+  "ip_address": "149.169.206.23",
+  "browser": "Chrome",
+  "traffic_source": "Adwords",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": "54923",
+  "session_id": "c5f8f823-3b59-4a76-a818-1ef15494d443",
+  "ip_address": "118.164.197.103",
+  "browser": "Firefox",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": null,
+  "session_id": "663c18cc-2147-4cd6-8835-5f7d428d92b1",
+  "ip_address": "4.251.138.186",
+  "browser": "Chrome",
+  "traffic_source": "Email",
+  "uri": "/cart",
+  "event_type": "cart"
+}, {
+  "user_id": null,
+  "session_id": "4b99e580-40b9-41f2-994d-646c19c6746b",
+  "ip_address": "145.60.74.87",
+  "browser": "Chrome",
+  "traffic_source": "Adwords",
+  "uri": "/cart",
+  "event_type": "cart"
+}]
